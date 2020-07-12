@@ -6,6 +6,8 @@ logo_url:
   default: ''
 mobile_logo_url:
   default: ''
+always_display_links_in_mobile:
+  default: false
 links:
   type: list
   default: ''
